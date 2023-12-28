@@ -1,3 +1,5 @@
+from Number import replacewithnumber
+from Upper import replacewithuppercaseletter
 import random
 
 def generatePassword(pwlength):
